@@ -1,0 +1,27 @@
+C:\Users\dns\Google Диск\programming\csharp\Polar\Polar\bin\Debug\Polar.exe.config
+C:\Users\dns\Google Диск\programming\csharp\Polar\Polar\bin\Debug\Polar.exe
+C:\Users\dns\Google Диск\programming\csharp\Polar\Polar\bin\Debug\Polar.pdb
+C:\Users\dns\Google Диск\programming\csharp\Polar\Polar\obj\Debug\Polar.csprojResolveAssemblyReference.cache
+C:\Users\dns\Google Диск\programming\csharp\Polar\Polar\obj\Debug\Polar.Form1.resources
+C:\Users\dns\Google Диск\programming\csharp\Polar\Polar\obj\Debug\Polar.Properties.Resources.resources
+C:\Users\dns\Google Диск\programming\csharp\Polar\Polar\obj\Debug\Polar.csproj.GenerateResource.Cache
+C:\Users\dns\Google Диск\programming\csharp\Polar\Polar\obj\Debug\Polar.exe
+C:\Users\dns\Google Диск\programming\csharp\Polar\Polar\obj\Debug\Polar.pdb
+C:\Users\dns\Google Диск\useless trash\cs\Polar\Polar\bin\Debug\Polar.exe.config
+C:\Users\dns\Google Диск\useless trash\cs\Polar\Polar\obj\Debug\Polar.exe
+C:\Users\dns\Google Диск\useless trash\cs\Polar\Polar\obj\Debug\Polar.pdb
+C:\Users\dns\Google Диск\useless trash\cs\Polar\Polar\bin\Debug\Polar.exe
+C:\Users\dns\Google Диск\useless trash\cs\Polar\Polar\bin\Debug\Polar.pdb
+C:\Users\dns\Google Диск\useless trash\cs\Polar\Polar\obj\Debug\Polar.csprojResolveAssemblyReference.cache
+C:\Users\dns\Google Диск\useless trash\cs\Polar\Polar\obj\Debug\Polar.Form1.resources
+C:\Users\dns\Google Диск\useless trash\cs\Polar\Polar\obj\Debug\Polar.Properties.Resources.resources
+C:\Users\dns\Google Диск\useless trash\cs\Polar\Polar\obj\Debug\Polar.csproj.GenerateResource.Cache
+C:\Users\dns\Google Диск\other\cs\Polar\Polar\bin\Debug\Polar.exe.config
+C:\Users\dns\Google Диск\other\cs\Polar\Polar\obj\Debug\Polar.exe
+C:\Users\dns\Google Диск\other\cs\Polar\Polar\obj\Debug\Polar.pdb
+C:\Users\dns\Google Диск\other\cs\Polar\Polar\bin\Debug\Polar.exe
+C:\Users\dns\Google Диск\other\cs\Polar\Polar\bin\Debug\Polar.pdb
+C:\Users\dns\Google Диск\other\cs\Polar\Polar\obj\Debug\Polar.csprojResolveAssemblyReference.cache
+C:\Users\dns\Google Диск\other\cs\Polar\Polar\obj\Debug\Polar.Form1.resources
+C:\Users\dns\Google Диск\other\cs\Polar\Polar\obj\Debug\Polar.Properties.Resources.resources
+C:\Users\dns\Google Диск\other\cs\Polar\Polar\obj\Debug\Polar.csproj.GenerateResource.Cache
