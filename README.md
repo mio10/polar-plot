@@ -3,6 +3,8 @@
 ## Description
 A program that plots in polar coordinates. I wrote the program in 2015 when I was learning C# and polar coordinates in high school.
 
+![](thumbnail.png)
+
 ## Requirements
 An installation of Microsoft .NET redistributable is probably required to run.
 
